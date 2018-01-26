@@ -1,0 +1,5 @@
+#spring.application.name=spring-cloud-devtools
+#server.port=0
+#eureka.instance.instanceId=rnd-${random.int}
+#ribbon.filter.metadata.enabled=false
+#spring.cloud.devtools.tunnel.deployed-app-name=appC
